@@ -1,0 +1,9 @@
+# competition data (not redistributed) and run outputs
+data/*.csv
+work/
+work_smoke/
+subs/
+submission*.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
